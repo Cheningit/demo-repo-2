@@ -6,4 +6,6 @@ Some plain text that I inserted !
 
 Watch tutorial on YouTube. 
 
-hello? 
+## Local Development 
+
+1. open index.html 
